@@ -1,10 +1,10 @@
 {
   "root": true,
   "project": {
-    "name": "fullstack_portfolio"
+    "name": "backend_sanity_portfolio"
   },
   "api": {
-    "projectId": "deed3u3g",
+    "projectId": "5aijr8b2",
     "dataset": "production"
   },
   "plugins": [
